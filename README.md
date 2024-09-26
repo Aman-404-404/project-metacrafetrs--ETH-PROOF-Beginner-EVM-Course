@@ -69,4 +69,5 @@ contract MyToken {
     }
 }
 
-
+Authors ✍️
+Aman Raj Singh
